@@ -6,11 +6,11 @@ Commandline TODO app with swift
 
 ## Team Members
 
-|Name       |Student Num. |
-|:----------|:-----------:|
-|*Sina Elahimanesh*|98101169|
-|*Amirreza Mirzaei*|98106112|
-|*Bardia Mohammadi*|98171104|
+|Name       |
+|:----------:|
+|*Sina Elahimanesh*|
+|*Amirreza Mirzaei*|
+|*Bardia Mohammadi*|
 
 ## Funtionality
 
